@@ -1,1 +1,1 @@
-Read the GitBook version [here](zacacollier.gitbook.com/gradual-redux)
+Backup only - go to [Medium](https://medium.com/@zacharycollier) for a better reading experience.
